@@ -1,0 +1,64 @@
+.CompanyName h2{
+	font-family: 'Merriweather Sans', sans-serif;
+	display: none;
+}
+
+.slider ul.slides li img {
+
+	width: 100%;
+}
+.nav{
+	position: fixed;
+}
+
+.nav-wrapper a{
+	color: #263238;
+}
+.brand-logo img{
+	width: 100px;
+}
+.CompanyName h2{
+	
+margin: 0px auto;
+}
+.Company-Name{
+	width: 50%;
+}
+.social-networking a{
+	color: #b0bec5;
+	font-size: 2em;
+}
+.address-map{
+	float:none;
+}
+.main-text p{
+	text-align: justify;
+}
+.main-text{
+	margin: 5px;
+}
+
+    .parallax-container {
+      height: 100px;
+    }
+
+
+
+.address-map {
+	position: relative;
+	padding-bottom: 75%; // This is the aspect ratio
+	height: 0;
+	overflow: hidden;
+}
+.address-map iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 100% !important;
+}
+
+.Social-Network-icons a{
+	font-size: 1.5em;
+}
+
